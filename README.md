@@ -1,6 +1,6 @@
 -- Vytvorte dátový model pre systém elekronického obchodu predaja
 -- športových potrieb. Pri každom tovare je potrebné evidovať presný
--- názov, krajinu pôvodu, druh tovaru, cunu a stav spracovania
+-- názov, krajinu pôvodu, druh tovaru, cenu a stav spracovania
 -- objednávky. Systém bude evidovať aj osobnné údaje zákazníkov portálu.
 -- Pomocou tohto systému  bude možné objednať si napríklad korčule a 
 -- prilbu pre ľadový hokej, ale aj outdoorové či trekingové dámske športové
